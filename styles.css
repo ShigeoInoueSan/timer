@@ -224,6 +224,7 @@ button:active {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  justify-content: center;
 }
 
 .chip {
@@ -273,7 +274,7 @@ button:active {
   }
 
   .presets {
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .chip {
